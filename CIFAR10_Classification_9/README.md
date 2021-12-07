@@ -15,8 +15,11 @@
 ## Loss
 - Train Loss: 0.4196
 - Test Loss: 0.5005
+- Loss graph
+  ![](Loss_Result.png)
 
 ## Accuracy
 - Train Accuracy: 85.26%
 - Test Accuracy: 83.75%
-
+- Accuracy graph
+  ![](Accuracy_Result.png)
